@@ -8,6 +8,9 @@ To create an intelligent parking. To simplify, you will have two parking spaces 
 #### Language
 Implementation in Python with Raspberry Pi 4 
 
+#### Wiring 
+![Screenshot](images/SmartParking.png)
+
 #### Setup 
 ![Screenshot](images/setup.jpg)
 
