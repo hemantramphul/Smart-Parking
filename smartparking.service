@@ -1,0 +1,10 @@
+[Unit]
+Description=Smart Parking Management System
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/pi/hraspberry/SmartParking.py
+User=pi
+
+[Install]
+WantedBy=multi-user.target
